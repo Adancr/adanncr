@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAC;EACH,WAAW,EAAE,4BAA4B;CAC1C;;AACD,AAAA,IAAI,CAAC;EACH,SAAS,EAAE,KAAK;EAChB,MAAM,EAAE,IAAI;CACb",
+    "sources": [
+        "../../scss/politicas.scss"
+    ],
+    "names": [],
+    "file": "politicas.css"
+}

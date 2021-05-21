@@ -1,0 +1,21 @@
+body {
+  background:  linear-gradient(to right, rgba(20,5,79,1) 0%, rgba(37,5,85,1) 40%, rgba(84,5,133,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#14054f', endColorstr='#540585', GradientType=1 );
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+
+.contenedro {
+  h1 {
+    color: white;
+    
+  }
+}
